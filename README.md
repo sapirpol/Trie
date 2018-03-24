@@ -1,5 +1,6 @@
 # Trie
 Tree of strings
+
 Describtion of the project:
 This is an implementation to Trie data structure.
 The program reads sentences from user (ending by line consists of point) - This data will be stores in the Trie (using an array).
